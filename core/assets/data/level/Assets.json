@@ -1,0 +1,16 @@
+{
+	assetsList:[
+		{name:text},
+		{name:background},
+		{name:tileset},
+		{name:player},
+		{name:playerIdle},
+		{name:playerWalking},
+		{name:arrow},
+		{name:arrowShadow},
+		{name:tree},
+		{name:rock},
+		{name:light}
+	]
+}
+

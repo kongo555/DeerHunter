@@ -1,0 +1,33 @@
+
+player.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+playerWalk
+  rotate: false
+  xy: 1, 1
+  size: 96, 16
+  orig: 96, 16
+  offset: 0, 0
+  index: -1
+playerWalksShoot
+  rotate: false
+  xy: 99, 1
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+playerIdle
+  rotate: false
+  xy: 173, 1
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+playerShoot
+  rotate: false
+  xy: 223, 1
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
