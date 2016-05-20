@@ -6,4 +6,4 @@ Project using entity component system. Soft shadows and dynamic light for day-ni
 
 Preview
 -------
-![preview](core/assets/hunter.gif)
+![preview](core/assets/hunetr.gif)
